@@ -258,7 +258,9 @@ li {
 }
 .profile-body {
   flex: 1;
+  margin-top: 50px;
 }
+
 .profile-body p:not(:last-child) {
   margin-bottom: 30px;
 }
